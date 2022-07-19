@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-web/./src/vue/style/base.scss"],"names":[],"mappings":"AAAA,qBAGE,YACA,gBAEF,UAEE,WAGF,KACE","file":"css/main~1cdf011f.49aae80a3d4f3e62.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  border: none;\n  list-style: none;\n}\nhtml,\nbody {\n  width: 100%;\n}\n\nbody {\n  background: cyan;\n}\n"],"sourceRoot":""}
